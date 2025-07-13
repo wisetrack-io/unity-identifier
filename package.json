@@ -1,0 +1,25 @@
+{
+  "name": "io.wisetrack.sdk.unity.identifiers",
+  "version": "2.0.0",
+  "displayName": "WiseTrack Identifiers Bundle Package",
+  "description": "Package containing Android identifiers packages files",
+  "unity": "2019.4",
+  "dependencies": {},
+  "keywords": [
+    "android",
+    "wisetrack",
+    "identifiers",
+    "googleplayservice",
+    "plugins"
+  ],
+  "author": {
+    "name": "WiseTrack",
+    "email": "thisismovahhed@gmail.com",
+    "url": "https://wisetrack.io"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wisetrack-io/unity-identifier"
+  }
+}
